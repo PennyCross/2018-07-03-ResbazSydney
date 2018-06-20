@@ -228,7 +228,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  Darya's stream will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. Paddy's stream will use this <a href="http://pad.software-carpentry.org/2018-07-03-mqR2">one</a>. 
 </p>
 {% endif %}
 
